@@ -22,9 +22,7 @@ This repository contains the code for Simple calculator using html , css and js 
 ## Features
 
 - Responsive design
-- Portfolio showcase
-- About Me section
-- Contact form
+  
 
 ## Use To Technology
 
